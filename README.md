@@ -5,5 +5,5 @@ En progreso
 - Conteo de sílabas
 - Rima
 - Resaltado 
-  - Sílaba tonica
-  - Sinalefas
+   - Sílaba tonica
+   - Sinalefas
