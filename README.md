@@ -3,7 +3,7 @@ En progreso
 
 ## Funciones
 - Conteo de sílabas
+- Rima
 - Resaltado 
-  - Sílaba tonica
-  - Rima
-  - Sinalefas
+ - Sílaba tonica
+ - Sinalefas
