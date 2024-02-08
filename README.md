@@ -1,5 +1,6 @@
 # Pluguin para poetas en Obsidian
-En progreso
+> En progreso
+
 ## Funciones
 - Conteo de sílabas
 - Rima
