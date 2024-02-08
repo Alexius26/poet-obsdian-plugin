@@ -6,5 +6,3 @@ En progreso
 - Resaltado 
    - Sílaba tonica
    - Sinalefas
-   
-   hola

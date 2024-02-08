@@ -1,1 +1,0 @@
-import { Editor, Plugin } from "obsidian";
